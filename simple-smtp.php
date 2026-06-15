@@ -3,7 +3,7 @@
 Plugin Name: Simple SMTP
 Plugin URI: https://github.com/cvaneyk/simple-smtp
 Description: Configura el envío de correos mediante SMTP, sin publicidad sin anuncios, sin seguimiento, sin cookies. Simple y funcional.
-Version: 1.2
+Version: 1.3
 Author: Carlos Van Eyk
 Update URI: https://github.com/cvaneyk/simple-smtp
 */
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit; // Acceso directo no permitido
 }
 
-define('SIMPLE_SMTP_VERSION', '1.2');
+define('SIMPLE_SMTP_VERSION', '1.3');
 define('SIMPLE_SMTP_GITHUB_USER', 'cvaneyk');
 define('SIMPLE_SMTP_GITHUB_REPO', 'simple-smtp');
 define('SIMPLE_SMTP_FILE', __FILE__);
