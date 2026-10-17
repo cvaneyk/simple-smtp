@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit; // Acceso directo no permitido
 }
 
-define('SIMPLE_SMTP_VERSION', '1.3');
+define('SIMPLE_SMTP_VERSION', '1.4');
 define('SIMPLE_SMTP_GITHUB_USER', 'cvaneyk');
 define('SIMPLE_SMTP_GITHUB_REPO', 'simple-smtp');
 define('SIMPLE_SMTP_FILE', __FILE__);
